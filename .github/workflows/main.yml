@@ -3,7 +3,7 @@ name: Update BigCommerce on Push to Master
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   update-bigcommerce:
